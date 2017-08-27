@@ -1,7 +1,5 @@
-CS 600.475
+CS 600.475 Final Project
 
 Victor Amaral and Chandler Furman
-
-Final Project
 
 See report.pdf for more info
